@@ -522,6 +522,10 @@ h3{
     color: #777;
 }
 
+.one{
+    display: block;
+    visibility: hidden;
+}
 
 
 
